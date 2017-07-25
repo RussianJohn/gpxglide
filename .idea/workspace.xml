@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca145483-8fc9-4cb2-835c-66b084407f2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/glider.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/20170711214902.gpx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/20170723140105.gpx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gpx_reader.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.git-ignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -241,12 +233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500990892852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix gitignore (pycharm)&#10;&#10;True name setup">
+      <created>1500992292073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500992292073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="26" width="1400" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -277,7 +275,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add git-ignore (pycharm)" />
     <MESSAGE value="Add git-ignore (pycharm)&#10;&#10;*.xml ignorance added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add git-ignore (pycharm)&#10;&#10;*.xml ignorance added" />
+    <MESSAGE value="Fix gitignore (pycharm)&#10;&#10;True name setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix gitignore (pycharm)&#10;&#10;True name setup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
